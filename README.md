@@ -5,7 +5,7 @@
 The review application allows a user to post a project he/she has created and get it reviewed by his/her peers
 
 ## Live link
-Visit the application on https://mickeeychat.herokuapp.com/
+Visit the application on 
 
 
 ## Development
